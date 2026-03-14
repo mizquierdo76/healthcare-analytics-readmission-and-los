@@ -18,6 +18,18 @@ Analysis of 100,000+ U.S. hospital encounters revealed several patterns in 30-da
 These findings demonstrate how healthcare data analytics can help hospitals identify high-risk patients and reduce avoidable readmissions.
 
 
+## Data Visualizations
+
+### Readmission Rate by Age
+![Readmission by Age](readmission_by_age_chart.png)
+
+### Readmission Rate by Race
+![Readmission by Race](readmission_by_race_chart.png)
+
+### Diagnoses with Highest Readmission Rates
+![Diagnosis Readmission](top_diagnosis_readmission_chart.png)
+
+
 ## What to download
 Use the UCI dataset:
 **Diabetes 130-US Hospitals for Years 1999-2008**
