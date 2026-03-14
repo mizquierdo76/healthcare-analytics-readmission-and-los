@@ -1,10 +1,24 @@
-# Hospital Readmission Project
+# Hospital Readmission Risk Analysis
+### Healthcare Data Science Project
 
-This is a portfolio project designed to match the kind of healthcare analytics Premier asked for:
-- healthcare data analytics
-- relational databases
-- Python
-- model research / development support
+Predicting Hospital Readmission Risk
+Using Real Hospital Data from 130 U.S. Hospitals
+
+Hospital readmissions are a major cost driver in healthcare, and predictive
+analytics can help hospitals identify high-risk patients before discharge.
+
+This project analyzes factors associated with hospital readmission and
+builds a predictive model to identify high-risk patients using Python.
+
+This project demonstrates core healthcare data analytics skills including:
+
+• Healthcare data analysis and visualization
+• Python-based data processing and modeling
+• Exploratory data analysis (EDA)
+• Predictive modeling to identify hospital readmission risk
+
+The analysis reflects the type of healthcare analytics used by organizations
+such as Premier to help hospitals identify high-risk patients and improve outcomes.
 
 
 ## Key Insights
