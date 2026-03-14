@@ -1,4 +1,4 @@
-# Premier-style Hospital Readmission Project
+# Hospital Readmission Project
 
 This is a fast portfolio project designed to match the kind of healthcare analytics Premier asked for:
 - healthcare data analytics
