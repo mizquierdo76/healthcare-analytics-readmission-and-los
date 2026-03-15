@@ -1,6 +1,19 @@
 # Hospital Readmission Risk Analysis
 ### Healthcare Data Science Project
 
+## Interactive Tableau Dashboard
+
+This project also includes an interactive Tableau dashboard analyzing **hospital length of stay (LOS)** to identify operational drivers of hospital costs.
+
+Key factors analyzed:
+- Patient age vs length of stay
+- Readmission status vs length of stay
+- Medication complexity vs hospitalization duration
+
+The dashboard demonstrates how healthcare organizations can use analytics to identify efficiency opportunities and reduce unnecessary hospital days.
+
+![Hospital Dashboard](Dashboard.png)
+
 Predicting Hospital Readmission Risk
 Using Real Hospital Data from 130 U.S. Hospitals
 
