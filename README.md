@@ -1,6 +1,30 @@
 # Hospital Readmission Risk Analysis
 ### Healthcare Data Science Project
 
+# Healthcare Analytics: Length of Stay & Readmission Dashboard
+
+## Project Overview
+This project analyzes hospital length-of-stay trends and readmission patterns using a healthcare dataset.  
+Data was processed in R and visualized in Power BI to identify operational drivers of hospitalization duration.
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
+## Key Insights
+- Length of stay increases steadily with age groups.
+- Higher medication counts correlate with longer hospital stays.
+- Readmission distribution highlights patient risk groups.
+
+## Tools Used
+- R (dplyr)
+- Power BI
+- Healthcare analytics dataset
+
+## Files
+- healthcare_length_of_stay_dashboard.pbix
+- hospital_analysis.R
+- dashboard_preview.png
+
 ## Interactive Tableau Dashboard
 
 This project also includes an interactive Tableau dashboard analyzing **hospital length of stay (LOS)** to identify operational drivers of hospital costs.
@@ -64,19 +88,3 @@ These findings demonstrate how healthcare data analytics can help hospitals iden
 ### Diagnoses with Highest Readmission Rates
 ![Diagnosis Readmission](top_diag_readmission.png)
 
-Healthcare Analytics Dashboard (R + Power BI)
-
-This project analyzes hospital length of stay and readmission trends using a healthcare dataset of 100,000+ patient records.
-
-Analysis was performed in R using dplyr to calculate aggregated metrics including:
-
-• Average length of stay by age group
-• Relationship between medication count and hospital stay duration
-• Hospital readmission distribution
-
-The results were visualized in Power BI through an interactive dashboard designed to support healthcare operations analysis.
-
-Tools used:
-- R (dplyr)
-- Power BI
-- Healthcare dataset analytics
