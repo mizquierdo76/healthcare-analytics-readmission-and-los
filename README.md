@@ -36,7 +36,7 @@ Key factors analyzed:
 
 The dashboard demonstrates how healthcare organizations can use analytics to identify efficiency opportunities and reduce unnecessary hospital days.
 
-![Hospital Dashboard](Dashboard.png)
+
 
 Predicting Hospital Readmission Risk
 Using Real Hospital Data from 130 U.S. Hospitals
@@ -74,6 +74,8 @@ Analysis of 100,000+ U.S. hospital encounters revealed several patterns in 30-da
 • Demographic differences appear but are smaller than diagnosis effects  
 
 These findings demonstrate how healthcare data analytics can help hospitals identify high-risk patients and reduce avoidable readmissions.
+
+![Hospital Dashboard](Dashboard.png)
 
 
 ## Data Visualizations
