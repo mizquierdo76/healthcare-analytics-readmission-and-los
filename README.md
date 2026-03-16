@@ -64,3 +64,19 @@ These findings demonstrate how healthcare data analytics can help hospitals iden
 ### Diagnoses with Highest Readmission Rates
 ![Diagnosis Readmission](top_diag_readmission.png)
 
+Healthcare Analytics Dashboard (R + Power BI)
+
+This project analyzes hospital length of stay and readmission trends using a healthcare dataset of 100,000+ patient records.
+
+Analysis was performed in R using dplyr to calculate aggregated metrics including:
+
+• Average length of stay by age group
+• Relationship between medication count and hospital stay duration
+• Hospital readmission distribution
+
+The results were visualized in Power BI through an interactive dashboard designed to support healthcare operations analysis.
+
+Tools used:
+- R (dplyr)
+- Power BI
+- Healthcare dataset analytics
