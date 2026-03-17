@@ -2,26 +2,32 @@
 
 ### Healthcare Data Science & Analytics Project
 
-This project analyzes hospital **length-of-stay trends and 30-day readmission patterns** using a U.S. clinical dataset containing **100,000+ patient encounters across 130 hospitals**.  
+This project analyzes hospital **length-of-stay (LOS) trends and 30-day readmission patterns** using a U.S. clinical dataset containing **100,000+ patient encounters across 130 hospitals**.
 
-The goal of the analysis is to demonstrate how **healthcare analytics and predictive modeling** can help hospitals identify high-risk patients, understand operational drivers of hospital stays, and improve care outcomes while reducing unnecessary costs.
+The analysis combines **SQL data querying**, **Python-based predictive modeling**, **R data processing**, and **interactive dashboards in Power BI and Tableau** to identify high-risk patient populations and operational drivers of hospital utilization.
 
-The project combines **Python predictive modeling**, **R data processing**, and **interactive dashboards built in Power BI and Tableau** to explore patient risk patterns and hospitalization trends.
+- **SQL** was used for data extraction, querying, and aggregation of healthcare datasets  
+- **Python** was used for data cleaning, exploratory analysis, and building a **logistic regression model** to predict readmission risk  
+- **R** was used for additional data transformation and statistical analysis of length-of-stay trends  
+- **Power BI and Tableau** were used to create interactive dashboards analyzing LOS, readmissions, and patient complexity  
+
+This project demonstrates an **end-to-end healthcare analytics workflow**, from raw data querying to predictive modeling and business intelligence dashboards.
 
 ---
 
 # Power BI Dashboard – Length of Stay Analysis
 
-This dashboard focuses on **hospital operational analytics**, analyzing the factors that influence how long patients remain hospitalized.
 
-Key drivers analyzed:
+This dashboard focuses on **hospital operational analytics**, analyzing the key drivers of patient length of stay and associated cost impact.
 
-- Age group vs average hospital length of stay  
-- Medication complexity vs hospitalization duration  
-- Readmission status vs length of stay  
-- Estimated hospitalization cost impact
+Key insights include:
 
-The dashboard demonstrates how healthcare organizations can use analytics to identify **efficiency opportunities and cost drivers**.
+- Average LOS by age group  
+- Relationship between medication count and hospitalization duration  
+- Readmission distribution across patient populations  
+- Estimated cost per patient based on LOS  
+
+The dashboard highlights how healthcare organizations can use analytics to improve **efficiency, reduce unnecessary hospital days, and manage costs**.
 
 ![Power BI Dashboard](dashboard.png)
 
@@ -43,20 +49,19 @@ This dashboard highlights how analytics tools like Tableau can support **healthc
 
 ---
 
-# Predictive Modeling: Hospital Readmission Risk
+# Predictive Modeling – Hospital Readmission Risk
 
-Hospital readmissions are a major cost driver in healthcare. Predictive analytics can help hospitals identify **high-risk patients before discharge** and improve care coordination.
+Hospital readmissions are a major cost driver in healthcare. This project uses **Python** to build a predictive model that identifies patients at higher risk of 30-day readmission.
 
-Using Python, this project analyzes factors associated with hospital readmission and builds a **logistic regression model** to estimate readmission probability.
+Key steps:
 
-Steps included:
+- Data cleaning and preprocessing using Python  
+- Exploratory data analysis (EDA)  
+- Feature selection and preparation  
+- Logistic regression modeling  
+- Visualization of high-risk patient groups  
 
-- Healthcare data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Feature selection
-- Logistic regression modeling
-- Visualization of high-risk patient groups
-
+The model helps demonstrate how healthcare systems can proactively identify patients who may require additional care planning before discharge.
 ---
 
 # Tools & Technologies
@@ -66,7 +71,7 @@ Steps included:
 - **R** (data preparation and statistical analysis)
 - **Power BI** (interactive dashboard development)
 - **Tableau** (data visualization and operational dashboards)
-- **Data Visualization** (Matplotlib)
+- **Matplotlib** (Data Visualization)
 
 ---
 
