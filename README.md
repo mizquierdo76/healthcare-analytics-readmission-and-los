@@ -62,6 +62,7 @@ Steps included:
 # Tools & Technologies
 
 - **Python** (Pandas, NumPy, Scikit-learn)
+- **SQL** (querying, aggregation, and healthcare data analysis)
 - **R** (data preparation and statistical analysis)
 - **Power BI** (interactive dashboard development)
 - **Tableau** (data visualization and operational dashboards)
